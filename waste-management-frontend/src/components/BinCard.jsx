@@ -1,0 +1,1 @@
+// Sample content for src/components/BinCard.jsx

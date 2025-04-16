@@ -1,0 +1,1 @@
+// Sample content for src/constants/statusColors.js

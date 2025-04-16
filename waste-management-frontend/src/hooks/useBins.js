@@ -1,0 +1,1 @@
+// Sample content for src/hooks/useBins.js
